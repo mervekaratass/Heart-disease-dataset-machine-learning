@@ -8,10 +8,10 @@ The heart disease dataset is a ready-made dataset from the Kaggle dataset reposi
 <img src="https://github.com/mervekaratass/Heart-disease-dataset-machine-learning/blob/main/heart-disease/images/k-nn.png width=700>
 
 #### Naive Bayes
-<img src="https://github.com/mervekaratass/Car-evaluation-dataset-data-mining/blob/main/car_evaluation/images/naive bayes.png" width=700>
+<img src="https://github.com/mervekaratass/Car-evaluation-dataset-data-mining/blob/main/heart-disease/images/naive bayes.png" width=700>
 
 #### Result
-<img src="https://github.com/mervekaratass/Car-evaluation-dataset-data-mining/blob/main/car_evaluation/images/performans.png" width=300>
+<img src="https://github.com/mervekaratass/Heart-disease-dataset-machine-learning/blob/main/heart-disease/images/performance.png" width=300>
 
 
 
